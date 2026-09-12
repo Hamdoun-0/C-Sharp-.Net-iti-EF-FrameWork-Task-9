@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET iti\\session13\\EF_Rev (1)\\EF_Rev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4250C324-1D6D-6FF4-0619-4B28516C2A55}|EF_Rev\\EF_Rev.csproj|c:\\.net iti\\session13\\ef_rev (1)\\ef_rev\\ef_rev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4250C324-1D6D-6FF4-0619-4B28516C2A55}|EF_Rev\\EF_Rev.csproj|solutionrelative:ef_rev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET iti\\session13\\EF_Rev (1)\\EF_Rev\\EF_Rev\\Program.cs",
+              "RelativeDocumentMoniker": "EF_Rev\\Program.cs",
+              "ToolTip": "C:\\.NET iti\\session13\\EF_Rev (1)\\EF_Rev\\EF_Rev\\Program.cs",
+              "RelativeToolTip": "EF_Rev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:27:47.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
