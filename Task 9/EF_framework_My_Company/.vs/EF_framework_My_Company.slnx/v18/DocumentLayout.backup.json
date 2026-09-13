@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|c:\\.net iti\\session13\\c-sharp-.net-iti-ef-framework-task-9\\task 9\\ef_framework_my_company\\ef_framework_my_company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|solutionrelative:ef_framework_my_company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|c:\\.net iti\\session13\\c-sharp-.net-iti-ef-framework-task-9\\task 9\\ef_framework_my_company\\ef_framework_my_company\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|solutionrelative:ef_framework_my_company\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|c:\\.net iti\\session13\\c-sharp-.net-iti-ef-framework-task-9\\task 9\\ef_framework_my_company\\ef_framework_my_company\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|solutionrelative:ef_framework_my_company\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|c:\\.net iti\\session13\\c-sharp-.net-iti-ef-framework-task-9\\task 9\\ef_framework_my_company\\ef_framework_my_company\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|solutionrelative:ef_framework_my_company\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|c:\\.net iti\\session13\\c-sharp-.net-iti-ef-framework-task-9\\task 9\\ef_framework_my_company\\ef_framework_my_company\\repository\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|solutionrelative:ef_framework_my_company\\repository\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|c:\\.net iti\\session13\\c-sharp-.net-iti-ef-framework-task-9\\task 9\\ef_framework_my_company\\ef_framework_my_company\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|solutionrelative:ef_framework_my_company\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|c:\\.net iti\\session13\\c-sharp-.net-iti-ef-framework-task-9\\task 9\\ef_framework_my_company\\ef_framework_my_company\\models\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|solutionrelative:ef_framework_my_company\\models\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|c:\\.net iti\\session13\\c-sharp-.net-iti-ef-framework-task-9\\task 9\\ef_framework_my_company\\ef_framework_my_company\\models\\configuration\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A38634E-0FA0-9894-FA6D-09061B090EB5}|EF_framework_My_Company\\EF_framework_My_Company.csproj|solutionrelative:ef_framework_my_company\\models\\configuration\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Program.cs",
+              "RelativeDocumentMoniker": "EF_framework_My_Company\\Program.cs",
+              "ToolTip": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Program.cs*",
+              "RelativeToolTip": "EF_framework_My_Company\\Program.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwD8AAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:20:00.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Repository\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "EF_framework_My_Company\\Repository\\GenericRepo.cs",
+              "ToolTip": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Repository\\GenericRepo.cs*",
+              "RelativeToolTip": "EF_framework_My_Company\\Repository\\GenericRepo.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T15:32:14.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Repository\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "EF_framework_My_Company\\Repository\\IGenericRepo.cs",
+              "ToolTip": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Repository\\IGenericRepo.cs*",
+              "RelativeToolTip": "EF_framework_My_Company\\Repository\\IGenericRepo.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T14:21:20.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "EF_framework_My_Company\\Models\\Company.cs",
+              "ToolTip": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Models\\Company.cs",
+              "RelativeToolTip": "EF_framework_My_Company\\Models\\Company.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:28:54.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EF_framework_My_Company\\Models\\Employee.cs",
+              "ToolTip": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Models\\Employee.cs",
+              "RelativeToolTip": "EF_framework_My_Company\\Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:33:43.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EF_framework_My_Company\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EF_framework_My_Company\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:25:25.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Models\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "EF_framework_My_Company\\Models\\Configuration\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Models\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "EF_framework_My_Company\\Models\\Configuration\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:59:13.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyConfiguration.cs",
+              "DocumentMoniker": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Models\\Configuration\\CompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "EF_framework_My_Company\\Models\\Configuration\\CompanyConfiguration.cs",
+              "ToolTip": "C:\\.NET iti\\session13\\C-Sharp-.Net-iti-EF-FrameWork-Task-9\\Task 9\\EF_framework_My_Company\\EF_framework_My_Company\\Models\\Configuration\\CompanyConfiguration.cs",
+              "RelativeToolTip": "EF_framework_My_Company\\Models\\Configuration\\CompanyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:59:26.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
